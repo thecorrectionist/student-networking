@@ -1,1 +1,1 @@
-# student-networking
+# student
